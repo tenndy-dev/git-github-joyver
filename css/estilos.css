@@ -17,3 +17,7 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#cabecera {
+    background: url("../imagenes/1.png") no-repeat center;
+}
